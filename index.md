@@ -1,6 +1,10 @@
 
 ---
 
+layout: default
+title: Tarification
+---
+
 ### Fonctionnalités à développer pendant les 3 mois
 
 #### 1. Présenter l’Institut
